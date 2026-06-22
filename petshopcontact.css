@@ -1,0 +1,17 @@
+.socials{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;          /* space between Instagram and WhatsApp */
+    margin-top: 50px;
+}
+
+.insta{
+    display: flex;
+    align-items: center;
+}
+
+.whatsapp{
+    display: flex;
+    align-items: center;
+}
